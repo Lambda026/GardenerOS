@@ -1,0 +1,7 @@
+# 编译产物
+target/
+# Rust 的本地配置
+*.rs.bk
+# 编辑器临时文件
+*.swp
+.DS_Store
